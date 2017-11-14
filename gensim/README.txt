@@ -1,0 +1,1 @@
+word2vecTest  用gensim创建w2v模型
